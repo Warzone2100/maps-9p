@@ -1,0 +1,1 @@
+Symmetrical 9-player map. The angles between the bases are set correctly. A rotation with the desired angle degree (40) has been performed. It is a very large map. So it is with --4oils and 2trucks/base+72 oil/map+4/scavs = 12,44 oil/player—a lowoil map (IMO). Normal bases.
