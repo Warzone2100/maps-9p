@@ -1,0 +1,13 @@
+{
+    "name": "NCMonteVTOL-FIN",
+    "type": "skirmish",
+    "players": 9,
+    "tileset": "urban",
+    "author": {
+        "name": "JamesTQuirk"
+    },
+    "spdx-license-id": "CC-BY-3.0 OR GPL-2.0-or-later",
+    "created-date": "2013-10-08 20:17:30",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

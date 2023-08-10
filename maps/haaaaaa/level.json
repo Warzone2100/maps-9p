@@ -1,0 +1,13 @@
+{
+    "name": "haaaaaa",
+    "type": "skirmish",
+    "players": 9,
+    "tileset": "rockies",
+    "author": {
+        "name": "me"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2014-06-17 18:51:08",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

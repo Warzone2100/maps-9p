@@ -1,0 +1,13 @@
+{
+    "name": "Opa-2v2-TUR3",
+    "type": "skirmish",
+    "players": 9,
+    "tileset": "rockies",
+    "author": {
+        "name": "Opa"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2020-03-08 02:50:44",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "ilha",
+    "type": "skirmish",
+    "players": 9,
+    "tileset": "arizona",
+    "author": {
+        "name": "Alfacinha"
+    },
+    "spdx-license-id": "CC-BY-SA-3.0 OR GPL-2.0-or-later",
+    "created-date": "2013-05-05 19:53:22",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

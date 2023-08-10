@@ -1,0 +1,13 @@
+{
+    "name": "ChaosTheory2",
+    "type": "skirmish",
+    "players": 9,
+    "tileset": "rockies",
+    "author": {
+        "name": "JamesTQuirk"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2013-09-29 23:45:03",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

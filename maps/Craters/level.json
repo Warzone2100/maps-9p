@@ -1,0 +1,13 @@
+{
+    "name": "Craters",
+    "type": "skirmish",
+    "players": 9,
+    "tileset": "rockies",
+    "author": {
+        "name": "Slartifartbarstud"
+    },
+    "spdx-license-id": "CC-BY-3.0 OR GPL-2.0-or-later",
+    "created-date": "2012-06-14 00:22:37",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.25 Windows"
+}
